@@ -1,7 +1,7 @@
 <script setup>
 import { ref } from 'vue'
     import useAPI from '@/composables/useAPI';
-import CardSetting from '@/components/CardSetting.vue';
+//import CardSetting from '@/components/CardSetting.vue';
 
 const { instance } = useAPI()
 
